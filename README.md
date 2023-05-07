@@ -1,6 +1,5 @@
-# MOEBIUS
+# 🎬 MOEBIUS 📽️
 
- 
  # TECNOLOGIES: <br/>
 <br/>
 - ReactJS <br/>
@@ -12,4 +11,4 @@
 <br/>
 <br/>
 
- 🚀 https://moebius-app.herokuapp.com 🚀
+ 🎥 https://moebius-app.herokuapp.com 🎥
